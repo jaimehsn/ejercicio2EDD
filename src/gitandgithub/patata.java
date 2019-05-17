@@ -22,6 +22,8 @@ public class patata {
 
     public void setNumeroPatata(int numeroPatata) {
         this.numeroPatata = numeroPatata;
+        System.out.println("Cambio numero 2");
+        System.out.println("Cambio numero 4");
     }
     
 }

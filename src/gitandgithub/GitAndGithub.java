@@ -16,6 +16,8 @@ public class GitAndGithub {
      */
     public static void main(String[] args) {
         System.out.println("Esto es entorno de desarrollo");
+        System.out.println("Cambio numero 1");
+        System.out.println("Cambio numero 3");
     }
     
 }
